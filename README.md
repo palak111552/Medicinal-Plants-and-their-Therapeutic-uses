@@ -25,6 +25,6 @@ seaborn
 
 Jupyter Notebook
 
-🎯 Goal
+#Goal
 
 To demonstrate practical data analysis skills by transforming raw medicinal plant data into meaningful visual and analytical insights.
